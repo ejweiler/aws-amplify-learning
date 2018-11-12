@@ -1,6 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and using the [aws-amplify React tutorials](https://aws-amplify.github.io/docs/js/react).
 
 ## Available Scripts
+
+### `amplify help`
+
+See available amplify commands
 
 In the project directory, you can run:
 
